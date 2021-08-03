@@ -1,31 +1,39 @@
 # change_DNS
 
-自動修改本地DNS Server 地址為114.114.114.114 備用114.114.114.115
+想要修改安卓手机的DNS，需通过“设置”App进行操作。
 
-## 第一步：點擊changedns.exe 進入到change資料夾
-
-![image](https://github.com/qoo7972365/change_DNS/blob/main/img/Snipaste_2021-07-30_18-25-10.jpg)
+以基于安卓系统的华为手机为例，修改DNS的详细操作方法如下：
 
 
-## 第二步：點擊Download 下載檔案
-![image](https://github.com/qoo7972365/change_DNS/blob/main/img/download.jpg)
+## 第一步：通过桌面点击“设置”App，进入“设置”功能列表。
+
+![image](https://p3.pstatp.com/large/pgc-image/f21c8d0457654705841ec7443344d13a)
 
 
-
-## 第三步：點擊 保留
-![image](https://github.com/qoo7972365/change_DNS/blob/main/img/download2.jpg)
+## 第二步：在“设置”功能列表中，点击“无线和网络”
+![image](https://p3.pstatp.com/large/pgc-image/87819f03929f4759bcd67d2a0cf0b3af)
 
 
 
-## 第四步：點擊右鍵 已管理員身分運行
-![image](https://github.com/qoo7972365/change_DNS/blob/main/img/execute.jpg)
+## 第三步：在“无线和网络”功能列表中，点击“WLAN”
+![image](https://p1.pstatp.com/large/pgc-image/3d2f8c518d2e4819bcc4bc8203200faf)
 
 
 
-## 第五步：點擊 更多訊息
-![image](https://github.com/qoo7972365/change_DNS/blob/main/img/info1.jpg)
+## 第四步：在“WLAN”功能窗口，长按已连接的WIFI，并在弹出的菜单中选择“修改网络”
+![image](https://p1.pstatp.com/large/pgc-image/ebe751f8989047be9ffdbcad87b7534e)
 
 
 
-## 第六步：點擊 仍要運行
-![image](https://github.com/qoo7972365/change_DNS/blob/main/img/info2.jpg)
+## 第五步：在新窗口，勾选“显示高级选项”复选框
+![image](https://p1.pstatp.com/large/pgc-image/7aacb65ba2134e559954b3e55186822d)
+
+
+
+## 第六步：然后，点击“显示高级选项”下方的“IP”标签，并在弹出的对话框中选择“静态”
+![image](https://p1.pstatp.com/large/pgc-image/75b24d5bdb1f4071af8cb3e2daab89d4)
+
+
+
+## 第七步：最后，通过“域名1”或“域名2”下方的输入框输入新的DNS地址，点击“保存”，即可完成操作。
+![image](https://p3.pstatp.com/large/pgc-image/72a0861cf3e94f9d8f0d039ef28bf948)
